@@ -1,6 +1,6 @@
 {
   "name": "node-osh-react-page",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "openscihub.org: version of osh-page for React",
   "main": "index.js",
   "browser": "lib/browser.js",
@@ -11,11 +11,5 @@
   "license": "MIT",
   "devDependencies": {
     "react": "^0.11.1"
-  },
-  "dependencies": {
-    "osh-class": "0.0.0",
-    "osh-page": "0.0.0",
-    "osh-path": "0.0.1",
-    "xtend": "^4.0.0"
   }
 }
