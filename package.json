@@ -1,6 +1,6 @@
 {
   "name": "osh-react-page",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "openscihub.org: version of osh-page for React",
   "main": "index.js",
   "browser": "lib/browser.js",
@@ -9,7 +9,26 @@
   },
   "author": "Carl A. Bauer",
   "license": "MIT",
+  "dependencies": {
+    "osh-page": "0.0.5"
+  },
   "devDependencies": {
     "react": "^0.11.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openscihub/node-osh-react-page.git"
+  },
+  "keywords": [
+    "isomorphism",
+    "react",
+    "page"
+  ],
+  "bugs": {
+    "url": "https://github.com/openscihub/node-osh-react-page/issues"
+  },
+  "homepage": "https://github.com/openscihub/node-osh-react-page"
 }
