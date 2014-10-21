@@ -1,6 +1,6 @@
 {
   "name": "osh-react-page",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "openscihub.org: version of osh-page for React",
   "main": "index.js",
   "browser": "lib/browser.js",
